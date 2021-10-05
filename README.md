@@ -36,7 +36,6 @@ For this basic Arduino python LED control tutorial we can use any of Arduino Mic
 ![image](https://user-images.githubusercontent.com/19898602/135965573-a2e51882-f8b0-4856-be53-402228f6ac1e.png)
 
 
-![image](https://user-images.githubusercontent.com/19898602/135965586-da6b4175-2ce4-4f28-83d8-96d283efe84b.png)
 
 
 # Software Required
@@ -307,6 +306,7 @@ When you execute code by pressing F5 you will have instruction in console like c
 ![image](https://user-images.githubusercontent.com/19898602/135966105-6fbf5789-6656-4716-8097-c503f3dfb00a.png)
 
 
+![Arduino Python LED control](https://user-images.githubusercontent.com/19898602/135966363-3f9c3a51-3f41-42f4-a699-d6b2acd5ab70.gif)
 
 
 
