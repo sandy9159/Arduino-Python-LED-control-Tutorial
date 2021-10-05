@@ -85,6 +85,23 @@ void loop() {
 ```
 
 
+
+Before moving fuurther I would like to tell you something about PCB
+
+Yes PCB are the heart of the electronics based project usually we hesitate to try custom PCB and opt to homemade solutions
+
+like breadboard or Zero PCB earlier I also was in the same boat, I hesitate to try custom PCB my belief was they are much expensive.
+
+but then I came to know about [JLCPCB.COM](https://jlcpcb.com/IAT) and I was totally surprised how low price PCB's are they offering 
+
+there PCB quality is best in market, now I always go with PCB for my project and [JLCPCB.COM](https://jlcpcb.com/IAT) is my trusted 
+
+PCB manufacturer, you can also try there PCB service for more details you can visit their website [JLCPCB.COM](https://jlcpcb.com/IAT)
+You can also try there new purple colour for PCB without any extra cost.
+![image](https://user-images.githubusercontent.com/19898602/134336832-cb9953e9-02a6-4ff7-9d27-2caad10fe7c7.png)
+![image](https://user-images.githubusercontent.com/19898602/130722577-c30b7b43-ea89-4847-9c6b-058f9fabeda3.png)![image](https://user-images.githubusercontent.com/19898602/130722585-b5268db1-5f17-428f-ba60-b823140f2a70.png)
+
+
 ARDUINO PYTHON
 
 Arduino Python LED control Tutorial
